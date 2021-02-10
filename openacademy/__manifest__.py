@@ -1,4 +1,4 @@
- -*- coding: utf-8 -*-
+# -*- coding: utf-8 -*-
 {
     'name': "Open Academy",
 
@@ -26,7 +26,7 @@
     # always loaded
     'data': [
         # 'security/ir.model.access.csv',
-        'views.xml',
+        'templates.xml',
     ],
     # only loaded in demonstration mode
     'demo': [
